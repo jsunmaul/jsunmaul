@@ -53,6 +53,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-PCAP-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Blue_Team_Level_1-0000FF?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Responsive_Web_Design-5CB8FF?&style=for-the-badge&logo=freecodecamp&logoColor=white" />
 </div>
 
 ## Projects
